@@ -1,0 +1,22 @@
+{
+    "Underweight": {
+        "weight_loss": "Not recommended",
+        "weight_gain": "High-protein diet with calorie-dense foods.",
+        "healthy": "Balanced diet with emphasis on nutrition."
+    },
+    "Normal": {
+        "weight_loss": "Balanced calorie-deficit plan with whole foods.",
+        "weight_gain": "Moderate increase in protein and complex carbs.",
+        "healthy": "Maintain a diet rich in vegetables, proteins, and healthy fats."
+    },
+    "Overweight": {
+        "weight_loss": "Low-carb diet with a focus on lean protein and vegetables.",
+        "weight_gain": "Not recommended",
+        "healthy": "Balanced intake with reduced sugar and refined carbs."
+    },
+    "Obese": {
+        "weight_loss": "Low-calorie diet plan rich in fiber and lean protein.",
+        "weight_gain": "Not recommended",
+        "healthy": "Focus on nutrient-dense foods with portion control."
+    }
+}
